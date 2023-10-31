@@ -14,3 +14,4 @@ else:
 tax=income*rate
 print("Your tax rate is "+str(100*rate)+"%")
 print("You have to pay "+str(tax)+"€ in taxes.")
+#klaniari
